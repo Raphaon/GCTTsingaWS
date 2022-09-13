@@ -26,3 +26,16 @@ Route::get('/actualite',
     'as' => 'actu',
     'uses' => 'BlogController@index'
 ]);
+
+Route::get('/team',
+[
+    'as' => 'team',
+    'uses' => 'PagesController@team'
+]);
+
+
+Route::get('/contact',
+[
+    'as' => 'contact',
+    'uses' => 'PagesController@contact'
+]);

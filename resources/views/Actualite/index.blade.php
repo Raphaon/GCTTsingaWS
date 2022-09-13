@@ -15,7 +15,7 @@
           <article class="entry">
 
             <div class="entry-img">
-              <img src="assets/img/blog/blog-1.jpg" alt="" class="img-fluid">
+              <img src="assets/img/MinistereEnfants.jpeg" alt="" class="img-fluid">
             </div>
 
             <h2 class="entry-title">
@@ -36,7 +36,7 @@
                 Et eveniet enim. Qui velit est ea dolorem doloremque deleniti aperiam unde soluta. Est cum et quod quos aut ut et sit sunt. Voluptate porro consequatur assumenda perferendis dolore.
               </p>
               <div class="read-more">
-                <a href="blog-single.html">Read More</a>
+                <a href="blog-single.html">Lire plus</a>
               </div>
             </div>
 
@@ -66,7 +66,7 @@
                 Ad impedit qui officiis est in non aliquid veniam laborum. Id ipsum qui aut. Sit aliquam et quia molestias laboriosam. Tempora nam odit omnis eum corrupti qui aliquid excepturi molestiae. Facilis et sint quos sed voluptas. Maxime sed tempore enim omnis non alias odio quos distinctio.
               </p>
               <div class="read-more">
-                <a href="blog-single.html">Read More</a>
+                <a href="blog-single.html">Lire plus</a>
               </div>
             </div>
 

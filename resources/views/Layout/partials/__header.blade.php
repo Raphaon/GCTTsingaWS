@@ -14,7 +14,7 @@
           <li class="dropdown"><a href="#"><span>A propos</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
               <li><a href="about.html">A propos de nous</a></li>
-              <li><a href="team.html">Team</a></li>
+              <li><a href="{{ route('team') }}">Team</a></li>
               <li><a href="testimonials.html">Temoignage</a></li>
               <li class="dropdown"><a href="#"><span>Deep Drop Down</span> <i class="bi bi-chevron-right"></i></a>
                 <ul>
@@ -30,9 +30,8 @@
 
           <li><a href="services.html">Services</a></li>
           <li><a href="portfolio.html">Portfolio</a></li>
-          <li><a href="pricing.html">Pricing</a></li>
           <li><a href="{{ route('actu') }}">Actualité</a></li>
-          <li><a href="contact.html">Contact</a></li>
+          <li><a href="{{ route('contact') }}">Contact</a></li>
 
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
@@ -40,7 +39,7 @@
 
       <div class="header-social-links d-flex">
         <a href="#" class="twitter"><i class="bu bi-twitter"></i></a>
-        <a href="#" class="facebook"><i class="bu bi-facebook"></i></a>
+        <a href="https://www.facebook.com/missiondupleinevangiletsinga" class="facebook"><i class="bu bi-facebook"></i></a>
         <a href="#" class="instagram"><i class="bu bi-instagram"></i></a>
         <a href="#" class="linkedin"><i class="bu bi-linkedin"></i></i></a>
       </div>
